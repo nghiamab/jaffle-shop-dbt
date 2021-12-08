@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: nghiatp
+    schema: nghiatp
+    database: vinid-playground
+    tables:
+      - name: raw_customer
+        identifier: customer
+      - name: raw_order
+        identifier: order
+      - name: raw_payment
+        identifier: payment

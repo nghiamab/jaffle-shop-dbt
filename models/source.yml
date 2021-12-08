@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: nghiatp
     schema: nghiatp
-    database: vinid-playground
+    database: #need update
     tables:
       - name: raw_customer
         identifier: customer

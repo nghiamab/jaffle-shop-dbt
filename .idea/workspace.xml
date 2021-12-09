@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="37d2d42b-1fe2-4b1b-8ae3-ab1fa14e668a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -78,10 +79,6 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="202" key="#Notifications" timestamp="1626794732335">
-      <screen x="0" y="0" width="1920" height="1080" />
-    </state>
-    <state x="560" y="202" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1626794732335" />
     <state width="1419" height="375" key="GridCell.Tab.0.bottom" timestamp="1632895962935">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -122,10 +119,10 @@
     </state>
     <state width="1419" height="375" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1632895962936" />
     <state width="1899" height="375" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1632739189547" />
-    <state x="469" y="176" key="SettingsEditor" timestamp="1632739098056">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="351" y="145" key="SettingsEditor" timestamp="1638977527415">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="351" y="146" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1632649390802" />
+    <state x="351" y="145" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1638977527415" />
     <state x="469" y="176" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1632739098056" />
   </component>
 </project>
